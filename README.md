@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/subhadeep322/75daysleetcodechallenge-/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/subhadeep322/75daysleetcodechallenge-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/subhadeep322/75daysleetcodechallenge-/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/subhadeep322/75daysleetcodechallenge-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/subhadeep322/75daysleetcodechallenge-/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/subhadeep322/75daysleetcodechallenge-/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/subhadeep322/75daysleetcodechallenge-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/subhadeep322/75daysleetcodechallenge-/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/subhadeep322/75daysleetcodechallenge-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
