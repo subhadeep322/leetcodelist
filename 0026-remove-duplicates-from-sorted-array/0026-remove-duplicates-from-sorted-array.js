@@ -3,22 +3,19 @@
  * @return {number}
  */
 var removeDuplicates = function(nums) {
-    if(nums.length === 0) return 0;
-    let i = 0;
-    let res = 1;
-    let j =1;
-    while(j<nums.length){
-        if(nums[j] === nums[j-1]){
-            j++;
-            continue;
-        }
-        else{
-            nums[i+1] = nums[j];
-            i++;
-            j++;
-            res++
-        }
+ if(nums.length === 0) return 0;
+ let t = 0;
+ let s = 1;
+let res = 1;
+while(s<nums.length){
+    if(nums[s] === nums[s-1]){
+        s++;
+        continue;
     }
-    return res;
-
+    nums[t+1] = nums[s];
+    t++;
+    s++;
+    res++;
+}
+return res;
 };
